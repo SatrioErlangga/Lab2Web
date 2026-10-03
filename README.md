@@ -14,13 +14,18 @@ Repositori ini dibuat untuk memenuhi tugas mata kuliah **Pemrograman Web** pada 
 
 ---
 
-## 📁 Struktur Folder
+## Struktur Folder
+
 ```text
 Lab2Web/
 ├── index.html
 ├── biodata.html
 ├── README.md
----
+└── media/
+    ├── audio.mp3
+    └── video.mp4
+```
+
 Langkah-Langkah Praktikum & Hasil Tampilan Web
 1. Membuat Tabel Data Mahasiswa & Struktur Tabel
 Membuat tabel sederhana serta mengembangkan tabel menggunakan struktur <thead>, <tbody>, <tfoot>, dan gabungan sel colspan.
