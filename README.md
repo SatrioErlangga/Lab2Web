@@ -20,7 +20,7 @@ Lab2Web/
 ├── index.html
 ├── biodata.html
 ├── README.md
-
+---
 Langkah-Langkah Praktikum & Hasil Tampilan Web
 1. Membuat Tabel Data Mahasiswa & Struktur Tabel
 Membuat tabel sederhana serta mengembangkan tabel menggunakan struktur <thead>, <tbody>, <tfoot>, dan gabungan sel colspan.
