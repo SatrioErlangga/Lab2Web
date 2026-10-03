@@ -67,7 +67,6 @@ Hasil Tampilan Web Browser:
 Mengimplementasikan elemen <form> dengan berbagai jenis input (text, email, password, date), tombol radio button, checkbox, select dropdown, dan textarea.
 
  Kode (index.html):
-
 HTML
 <form action="#" method="POST">
     <label for="nama_reg">Nama Lengkap:</label><br>
@@ -102,7 +101,6 @@ Hasil Tampilan Web Browser:
 Menerapkan validasi form bawaan HTML menggunakan atribut required, minlength, min, dan max pada elemen input.
 
  Kode (index.html):
-
 HTML
 <form action="#" method="POST">
     <label for="val_nama">Nama (Min 3 Karakter):</label><br>
@@ -123,7 +121,6 @@ Hasil Tampilan Web Browser (Pesan Validasi):
 Menggunakan struktur elemen semantic (<header>, <nav>, <main>, <section>, <aside>, <footer>) serta menambahkan media pemutar audio <audio> dan video <video>.
 
  Kode (index.html):
-
 HTML
 <main>
     <section id="multimedia">
@@ -150,7 +147,6 @@ Hasil Tampilan Web Browser:
 Menggabungkan seluruh elemen (Tabel, Form, Validasi, Semantic HTML, dan Multimedia) ke dalam satu proyek halaman Biodata Mahasiswa.
 
  Kode  (biodata.html):
-
 HTML
 <!DOCTYPE html>
 <html lang="id">
