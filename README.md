@@ -293,3 +293,65 @@ Menggabungkan seluruh elemen (Tabel, Form, Validasi, Semantic HTML, dan Multimed
 </html>
 Hasil Tampilan Web Browser (biodata.html):
 <img width="957" height="504" alt="Cuplikan layar 2026-10-03 191101" src="https://github.com/user-attachments/assets/397ea8c0-6385-4074-9a90-badc37dbd42a" />
+
+
+Jawaban Pertanyaan Modul
+Apa fungsi <table>, <tr>, <th>, dan <td>?
+
+<table>: Elemen pembungkus utama untuk membuat tabel.
+
+<tr> (Table Row): Membuat baris pada tabel.
+
+<th> (Table Header): Membuat sel judul/header kolom (teks dicetak tebal dan rata tengah).
+
+<td> (Table Data): Membuat sel untuk menampung data pada baris tabel.
+
+Apa perbedaan <th> dan <td>?
+
+<th> ditujukan untuk judul/header kolom, sehingga teksnya secara otomatis dicetak tebal (bold) dan diposisikan di tengah (center).
+
+<td> ditujukan untuk isi data tabel biasa, sehingga teksnya ditampilkan dengan bobot normal dan rata kiri (left).
+
+Apa fungsi colspan pada tabel?
+
+Atribut colspan (column span) berfungsi untuk menggabungkan dua atau lebih kolom horizontal menjadi satu sel tabel.
+
+Apa fungsi <form> dalam HTML?
+
+Tag <form> berfungsi sebagai kontainer atau wadah untuk menampung berbagai komponen elemen input yang digunakan untuk menerima masukan data dari pengguna dan mengirimkannya ke server.
+
+Apa perbedaan radio button dan checkbox?
+
+Radio Button (type="radio"): Hanya memungkinkan pengguna memilih satu pilihan saja dari sebuah kelompok opsi.
+
+Checkbox (type="checkbox"): Memungkinkan pengguna memilih satu, beberapa, atau seluruh pilihan sekaligus.
+
+Mengapa <label> sebaiknya terhubung dengan id input melalui atribut for?
+
+Menghubungkan atribut for pada label dengan id pada input bertujuan untuk meningkatkan aksesibilitas dan kemudahan navigasi. Pengguna cukup mengklik teks label untuk langsung mengaktifkan/mengarahkan kursor ke kotak input yang bersangkutan.
+
+Apa perbedaan <textarea> dengan input type="text"?
+
+input type="text" digunakan untuk menerima masukan teks pendek dalam satu baris tunggal (single line).
+
+<textarea> digunakan untuk menerima masukan teks panjang yang terdiri dari beberapa baris (multi-line), seperti alamat atau catatan.
+
+Apa fungsi semantic HTML seperti <header>, <nav>, <main>, <section>, <article>, <aside>, dan <footer>?
+
+Memberikan struktur dan makna yang jelas pada halaman web, memudahkan mesin pencari (Search Engine) memahami konten, serta membantu pembaca layar (screen reader) dalam menavigasi halaman.
+
+Apa fungsi required, min, max, dan minlength?
+
+required: Menandai bahwa kolom input wajib diisi sebelum form dapat dikirim.
+
+min: Menentukan nilai angka/tanggal terkecil yang diizinkan.
+
+max: Menentukan nilai angka/tanggal terbesar yang diizinkan.
+
+minlength: Menentukan jumlah karakter teks minimum yang wajib dimasukkan pengguna.
+
+Apa perbedaan elemen <audio> dan <video>?
+
+Tag <audio> digunakan untuk menyematkan dan memutar berkas suara/musik (contoh: .mp3).
+
+Tag <video> digunakan untuk menyematkan dan memutar berkas video/visual bergerak beserta suaranya (contoh: .mp4).
